@@ -5,7 +5,7 @@ from ml_test import run_ml_test
 from sheet_logger import connect_to_sheet, log_trade, log_accuracy
 
 stock = "TCS.NS"
-sheet_name = "trade_log"
+sheet_name = "add sheet name here after giving editorial access"
 creds_path = "google_creds.json"
 
 # Connect to the sheet
