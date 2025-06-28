@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "stock-464006",
-  "private_key_id": "5bc69b759a203f7c5a0c92bb103a7a14e04cd9ac",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeQpvQSKemK18u\nAUwE35z0OjJqbXx2bqRkLJyxJuZ7zn3et93Kj8o95Bnv44QbOPu+I3Umrp283SXY\nhuQ153epwIaFXvhbe1vMLKaWFNXa513ADUErJB33RDeCoXhYy5+8sn+A049/O/k8\nCwqbmyqBLM4PZ1bH14rPS6PNZUMFJ+p7BxythsbyzQdn/vPaSYYkh5nztipw2cj1\nOC14A9LxcNk+uHCmdJUQ3FiUPNdSYIqOQ69qN0hBueQWg9arXBZqUTO15eIxKzn7\nNbZndBqwEqMDkM590uxWtu9Z2RT73hsjk3ZC+74L55mkvV4gDyUWtgdjNyOciPsP\nWSa05D/bAgMBAAECggEAEcoYCZA/Juwyxo5hBMTXHa8oyN7xhtMtQj1V31IDQaaR\n6Yki7esbX1/J+armsH0bnSjeYBW611qGBHIrgur/Z21a9wLWcxAJFWr/fGS3hzlc\nhhopfKf75AYoQULmTIkjxGkvDmMgiakFtloV48WEHem1poL5ba5hVF00A6UWu6tD\nhOknoHxvpCkF+64Xn4IkQPCdAlsXqGHsyBqRD+D8JMGWAriIWsavsa2Uy9bnqVG0\nOdRiNcPiYjYp3i8Z+Z6PYh1XgJxwehlnQ0eNic9Y8QgORqGJhrGUapWvQ9UuYhmB\ne9h5jtjcgune5VNHFBw8hN945JQYTGJgrsrUexa6PQKBgQD1IjV8jCb2Ox44R/y8\nkXG3rtjkUyVTy0JCV/fciSQLnNTVLGn7cPzHc+n8Rspwj1gOJiEbBDm68dV/kgpk\nDachA2IM+IfSYlULp60filRoeVb/FE71MD7pH3MPHB9h8VLCm0AF9KP6MR/8mPDr\nfyB8NAZrWPVRhQCUWuMPnKIalwKBgQDoHNSgBqBzG3Q8026R4j6fh+rKE9XSZvLB\npBdWWlyw0fmbw1DFuE8NsvGa+GvDmZr32qwO0Lg4ElktFXjH9ocn+oe0wsmYs1dx\nw57NzI9+RKRlEPcfZfmRWUbDQDeNvc5M7Ksei0c6PTK/OTn30cs4zWhw0mbeZDgj\n4mKOLgoBXQKBgANc08UAmyw3hWOaQTJJAHlXkawYI+PxXthQIptI2lC6dwTxlgaX\n9y+5PFV0lyRSIxAWn8+iEDSrSpV0aGYU9dzzEe5BnoNZS/db9nj/ScchGvtmyOp+\nHe7OuqJTbW7Hg64duRQb1gABmoG5i1x/ou9xO0FPuBXFMEvYr1KwgFzDAoGAIzjk\nxxfaVz1OSUCoYbjcWecNKPcTlmcK5XmaFP+HW0mxwAJGiopqbKC/6w1RhRAVJRFo\n1KK1ocSfBalhd66gWd+5oiOA5gwo89mEiqRFDhsqey+04G3gDj9m7pAbHgY0fRXY\n7byi5WKOBdiQRFvwo8D/3UcAVzUME93xqLOxzv0CgYEA0SBDAgSkaRM3pW88xt4p\nSt52qgyA9xksThYqLvjPbbFepAXeJjKz6kFNOKhEaArhWebMst2z09ANKMU7/nxF\nWWxANibKifM9PEKhaNxhtsXL/NEao09tLFXYc7YmMD1Xjq3w7+H7D3BrhfVYAaY5\n22ZS5eipLQ40OoUJGaVGe/o=\n-----END PRIVATE KEY-----\n",
-  "client_email": "stock-log@stock-464006.iam.gserviceaccount.com",
-  "client_id": "107217862135942997965",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stock-log%40stock-464006.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+copy paste your own json here
